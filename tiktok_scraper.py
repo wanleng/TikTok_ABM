@@ -221,4 +221,4 @@ def scrape_tiktok_trends(category_name, keyword, depth=100):
         driver.quit()
 
 if __name__ == "__main__":
-    scrape_tiktok_trends("Water Gun", "Water Gun")
+    scrape_tiktok_trends("Songkran Shirt", "Songkran Shirt")
