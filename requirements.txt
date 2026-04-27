@@ -1,0 +1,12 @@
+mesa
+pandas
+matplotlib
+networkx
+starlette<0.42.0
+solara
+altair
+plotly
+anywidget
+selenium
+webdriver-manager
+selenium-stealth

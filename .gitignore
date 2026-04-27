@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Output and Data
+output/
+*.png
+*.csv
+# If you want to keep your specific trend data csv, uncomment the line below:
+# !tiktok_trend_data.csv
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch/Temporary Files
+.gemini/
+scratch/
+test_*.py
+temp_*.py
+
+# Submission Documents (Hidden from Git)
+FINAL_REPORT.md
+PRESENTATION.md
+PROJECT_LOGIC.pdf
+run_test.py
